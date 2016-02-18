@@ -1,0 +1,7 @@
+div#tabs p{display:none;}
+div#tabs p.tab1:target {display:block;}
+div#tabs p.tab2:target {display:block;}
+div#tabs p.tab3:target {display:block;}
+div#tabs p.tab4:target {display:block;}
+div#tabs p.tab5:target {display:block;}
+div#tabs p.tab6:target {display:block;}
